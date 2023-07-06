@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marcellus&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@font-face {
+  font-family: larken;
+  src: url('../font-larken/LarkenDEMO-Black.otf');
+  src: url('../font-larken/LarkenDEMO-Bold.otf');
+  src: url('../font-larken/LarkenDEMO-ExtraBold.otf');
+  src: url('../font-larken/LarkenDEMO-Light.otf');
+  src: url('../font-larken/LarkenDEMO-Medium.otf');
+  src: url('../font-larken/LarkenDEMO-Regular.otf');
+  src: url('../font-larken/LarkenDEMO-Thin.otf');
+  
+  
+}
+
+:root {
+  --brown: #ddbe70;
+  --green: #a3cdc8;
+  --bg: #f6f5f4;
+  --bg2: #ecfdf5;
+  --montserrat: "Montserrat", sans-serif;
+  /* --cormorant: "Cormorant Garamond", serif; */
+  --cormorant: "Marcellus", serif;
+  --image-padding: 4px;
+  --image-border-radius: 6px;
+}

@@ -1,0 +1,9 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../../../node_modules/swiper/swiper-bundle.css";
+@import "../../../node_modules/react-datepicker/dist/react-datepicker.css";
+@import "../../../node_modules/react-date-range/dist/styles.css";
+@import "../../../node_modules/react-date-range/dist/theme/default.css";
+@import "../../../node_modules/react-range-slider-input/dist/style.css";
+@import "./variable.css";
+@import "./Style.css";
+@import "./responsive.css";

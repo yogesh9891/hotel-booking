@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow:*
+
+sitemap: https://sundaysforever.com/sitemap.xml
